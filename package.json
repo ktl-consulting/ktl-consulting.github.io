@@ -2,7 +2,7 @@
   "name": "company-website",
   "version": "0.0.0",
   "description": "company web page",
-  "homepage": "http://ktl-consulting.github.io/company",
+  "homepage": "http://ktl-consulting.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
